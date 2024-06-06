@@ -1,0 +1,18 @@
+p{
+    background-color: rgb(255,167,192);
+    font-family: Verdana, DejaVu sans, sans-serif;
+
+} 
+  #pk{ 
+    color: blue;
+    font-size: 36px;
+}
+#ok{
+    background-color:rgb(0, 255, 21);
+    
+    font-size: 24px;
+    font-weight: bold;
+}
+ .my{
+    font-size: 24px;
+ }
